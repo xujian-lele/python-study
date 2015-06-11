@@ -1,7 +1,0 @@
-'''
-Created on Jun 11, 2015
-
-@author: xujian
-'''
-import theano
-print "this is a test"
