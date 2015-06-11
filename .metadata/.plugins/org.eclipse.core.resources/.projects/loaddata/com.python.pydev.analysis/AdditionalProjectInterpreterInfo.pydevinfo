@@ -1,0 +1,46 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/xujian/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/loaddata/com.python.pydev.analysis/v2_indexcache
+study.optimization|1433230328000|/home/xujian/workspace/loaddata/study/optimization.py
+study-numpy.broadcast|1433241910000|/home/xujian/workspace/loaddata/study-numpy/broadcast.py
+study.__init__|1433144732000|/home/xujian/workspace/loaddata/study/__init__.py
+study.theano2|1433147242000|/home/xujian/workspace/loaddata/study/theano2.py
+study.LogisticFunction|1433147630000|/home/xujian/workspace/loaddata/study/LogisticFunction.py
+study-pyparsing.__init__|1433230693000|/home/xujian/workspace/loaddata/study-pyparsing/__init__.py
+study.theano1|1433146482000|/home/xujian/workspace/loaddata/study/theano1.py
+study-numpy.__init__|1433241245000|/home/xujian/workspace/loaddata/study-numpy/__init__.py
+loadzip.loadzipsrc|1433143592000|/home/xujian/workspace/loaddata/loadzip/loadzipsrc.py
+loadzip.__init__|1433141675000|/home/xujian/workspace/loaddata/loadzip/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=study.optimization
+2=study-numpy.broadcast
+3=study.theano2
+6=study.LogisticFunction
+5=loadzip.loadzipsrc
+1=study.theano1
+-- END DICTIONARY
+-- START TREE 1
+17
+a|4|a!11@a!19@a!27@a!35@
+b|3|b!11@b!35@b!19@
+bat|1|batch_size!43@
+c|1|c!19@
+d_l|1|d_loss_wrt_params!43@
+dat|1|data!43@
+f|4|f!11@f!27@f!43@f!35@
+lab|1|label!43@
+log|1|logistic!51@
+msg|1|MSGD!43@
+out|1|out!27@
+s|1|s!51@
+sha|1|shared_dataset!42@
+upd|1|updates!43@
+x|2|x!11@x!51@
+y|1|y!11@
+z|1|z!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

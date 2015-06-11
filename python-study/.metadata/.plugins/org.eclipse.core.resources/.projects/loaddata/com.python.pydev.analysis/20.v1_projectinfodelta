@@ -1,0 +1,7 @@
+INSTUPstudy.LogisticFunction
+/home/xujian/workspace/loaddata/study/LogisticFunction.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0
+s=3
+logistic=4
+study.LogisticFunction=2
+x=1
