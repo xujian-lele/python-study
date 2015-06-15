@@ -17,6 +17,7 @@ References:
     - textbooks: "Pattern Recognition and Machine Learning" -
                  Christopher M. Bishop, section 5
 
+best result : epoch 304, minibatch 2500/2500, test error of best model 1.830000 %
 """
 __docformat__ = 'restructedtext en'
 
@@ -192,7 +193,7 @@ class MLP(object):
         # end-snippet-3
 
 
-def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000,
+def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=10,
              dataset='mnist.pkl.gz', batch_size=20, n_hidden=500):
     """
     Demonstrate stochastic gradient descent optimization for a multilayer

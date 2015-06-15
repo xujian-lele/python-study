@@ -111,7 +111,7 @@ class LeNetConvPoolLayer(object):
         self.params = [self.W, self.b]
 
 
-def evaluate_lenet5(learning_rate=0.1, n_epochs=200,
+def evaluate_lenet5(learning_rate=0.1, n_epochs=1,
                     dataset='mnist.pkl.gz',
                     nkerns=[20, 50], batch_size=500):
     """ Demonstrates lenet on MNIST dataset
@@ -124,7 +124,7 @@ def evaluate_lenet5(learning_rate=0.1, n_epochs=200,
     :param n_epochs: maximal number of epochs to run the optimizer
 
     :type dataset: string
-    :param dataset: path to the dataset used for training /testing (MNIST here)
+    :param dataset: path to the dataset used for trainingls /testing (MNIST here)
 
     :type nkerns: list of ints
     :param nkerns: number of kernels on each layer
