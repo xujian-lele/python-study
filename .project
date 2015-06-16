@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>machine-learning/kNN.py</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/machine-learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88+%E8%8B%B1%E6%96%87%E7%89%88+%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%89/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%BA%90%E4%BB%A3%E7%A0%81/machinelearninginaction/Ch02/kNN.py</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
