@@ -39,3 +39,16 @@ f=function([x,y],z)
 
 print f([[1,2],[1,2]],[[10,20],[10,20]])
 
+#multiply outputs
+a,b=T.matrices('a','b')
+diff=a-b
+abs_diff = abs(diff)
+diff_squared = diff ** 2
+f=theano.function([a,b],[diff,abs_diff,diff_squared])
+d,e,f=f([[1,2,3],[10,20,30]],[[100,200,300],[1,2,3]])
+print "diff is : \n"
+print d
+print "abs_diff is : \n"
+print e
+print "diff_squared is : \n"
+print f
